@@ -51,7 +51,7 @@ Crie uma classe Exercicio04, com método "... main()", que deve instanciar um ob
 
 <b>Exercício 05:</b>
 
-package exercicio05:
+package exercicio05.exercicio05:
 
 Uma caneta, um lápis e uma pena-mosquito são objetos utilizados para escrever.
 
